@@ -1,0 +1,18 @@
+{
+    "require": {
+        "ext-gd": "*"
+    },
+	 
+	 "authors": [
+    {
+      "name": "Cory LaViska",
+      "homepage": "http://www.abeautifulsite.net/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "claviska": "src/"
+    }
+  }
+}
